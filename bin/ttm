@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative "../src/task_manager"
+
+command = ARGV[0]
+
+TaskManager.new(command: command).run
