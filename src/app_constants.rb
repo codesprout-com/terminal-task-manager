@@ -1,1 +1,1 @@
-DATABASE_NAME = "app.db"
+DATABASE_NAME = "/Users/codesprout/.databases/app.db"
